@@ -1,3 +1,11 @@
+---
+title: 使用Docker + Hexo + Obsdian + Git实现个人博客自动部署
+date: 2025-12-14 16:04:46
+tags: []
+categories: []
+---
+
+
 这件事想做很久了。
 阿里云99/年服务器已经闲置两年了，终于想起来用了 hh
 
