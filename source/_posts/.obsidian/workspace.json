@@ -164,13 +164,35 @@
               "icon": "lucide-list",
               "title": "hello-world-1 的大纲"
             }
+          },
+          {
+            "id": "6b92b039ab31d5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "hello-world-1.md"
+              },
+              "icon": "lucide-info",
+              "title": "hello-world-1的笔记属性"
+            }
+          },
+          {
+            "id": "dd75131c53b506e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,11 +202,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0aeaf313855fc48",
+  "active": "dd75131c53b506e6",
   "lastOpenFiles": [
-    "hello-world.md"
+    "新建 文本文档.txt",
+    "hello-world.md",
+    "hello-world-1.md"
   ]
 }
