@@ -1,6 +1,6 @@
 # Header
 nav:
-  Posts: /archives
+  # Posts: /archives
   # Categories: /category
   # Tags: /tag
 
@@ -12,7 +12,7 @@ logo: /images/logo.svg
 
 # links
 links:
-  Github: https://github.com/xbmlz
+  Github: https://github.com/wcf178
   # ZhiHu:
   # Twitter:
   # Weibo:
@@ -37,7 +37,7 @@ busuanzi: true
 mermaid:
   enable: true
   # Available themes: default | dark | forest | neutral
-  theme: default
+  theme: neutral
 
 # giscus
 giscus:
@@ -50,7 +50,7 @@ giscus:
 
 # maple
 maple:
-  enable: true
+  enable: false
   # fall leaf count
   count: 10
   # 0-1
